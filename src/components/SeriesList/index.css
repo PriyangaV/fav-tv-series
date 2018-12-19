@@ -1,0 +1,12 @@
+.series-list {
+ list-style-type: none;
+ padding-left: 0;   
+}
+
+input {
+    outline: none;
+    width: 20%;
+    height: 30px;
+    text-align: center;
+    font-size: 14px;
+}
